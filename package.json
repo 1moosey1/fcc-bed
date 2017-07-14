@@ -1,0 +1,17 @@
+{
+  "name": "fcc-bed",
+  "version": "1.0.0",
+  "description": "freeCodeCamp/learnyounode exercises",
+  "dependencies": {
+    "express": "^4.15.3",
+    "expressworks": "^3.4.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "learnyounode": "^3.5.10",
+    "net": "^1.0.2",
+    "npm-run": "^4.1.2",
+    "pad": "^1.1.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {}
+}

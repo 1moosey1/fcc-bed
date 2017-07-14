@@ -14,13 +14,13 @@ var server = http.createServer(function(request, response) {
     }
 
     response.writeHead(200, { 'Content-Type': 'application/json' });
-    
+
     var requestUrl = url.parse(request.url, true);
     if(requestUrl.pathname === isoPath)
         serverMessage = isoEndpoint(requestUrl.query.iso);
-    
+
     else if(requestUrl.pathname === unixPath)
-        serverMessage = unixEndpoint(requestUrl.query.iso);        
+        serverMessage = unixEndpoint(requestUrl.query.iso);
 
     response.end(serverMessage);
 });
