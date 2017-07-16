@@ -1,40 +1,40 @@
 learnyounode Exercises
 
 1. HELLO WORLD
-  Solution: helloworld.js 
+   Solution: helloworld.js 
 
 2. BABY STEPS
-  Solution: babysteps.js
+   Solution: babysteps.js
 
 3. MY FIRST I/O
-  Solution: firstio.js
+   Solution: firstio.js
 
 4. MY FIRST ASYNC I/O
-  Solution: asyncio.js
+   Solution: asyncio.js
 
 5. FILTERED LS
-  Solution: filterls.js
+   Solution: filterls.js
 
 6. MAKE IT MODULAR
-  Solution: modular.js, dirmodule.js
+   Solution: modular.js, dirmodule.js
 
 7. HTTP CLIENT
-  Solution: httpclient.js
+   Solution: httpclient.js
 
 8. HTTP COLLECT
-  Solution: httpcollect.js
+   Solution: httpcollect.js
 
 9. JUGGLING ASYNC
-  Solution: jugglingasync.js
+   Solution: jugglingasync.js
 
 10. TIME SERVER
-  Solution: timeserver.js
+    Solution: timeserver.js
 
 11. HTTP FILE SERVER
-  Solution: fileserver.js
+    Solution: fileserver.js
 
 12. HTTP UPPERCASERER
-  Solution: httpuppercase.js
+    Solution: httpuppercase.js
 
 13. HTTP JSON API SERVER
-  Solution: jsonserver.js
+    Solution: jsonserver.js
