@@ -1,0 +1,10 @@
+This repo contains my solutions to the workshops learnyounode, expressworks, and learnyoumongo
+
+learnyounode - Tutorials and problems geared towards teaching Node.js
+expressworks - Tutorials and problems geared towards teaching Express.js
+learnyoumongo - Tutorials and problems geared towards teaching MongoDB
+
+All three can installed using
+npm install <workshop>
+
+package.json dependencies lists all modules used to solve the various exercises
