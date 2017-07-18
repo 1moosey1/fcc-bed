@@ -1,0 +1,28 @@
+learnyoumongo Exercises
+
+1. MONGOD
+   Solution: N/A
+
+2. CONNECT
+   Solution: N/A
+
+3. FIND
+   Solution: find.js
+
+4. FIND PROJECT
+   Solution: findproject.js
+
+5. INSERT
+   Solution: insert.js
+
+6. UPDATE
+   Solution: update.js
+
+7. REMOVE
+   Solution: remove.js
+
+8. COUNT
+   Solution: count.js
+
+9. AGGREGATE
+   Solution: aggregate.js
